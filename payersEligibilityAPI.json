@@ -1,0 +1,1203 @@
+{
+    "totalCount": 794,
+    "count": 50,
+    "offset": 0,
+    "limit": 50,
+    "payers": [
+        {
+            "name": "BC IDAHO",
+            "payerId": "BCIDC",
+            "displayName": "BC IDAHO",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2018-05-25T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "Portal",
+                    "effectiveDate": "2021-09-15T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2018-05-25T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "ANTHEM - GA",
+            "payerId": "101",
+            "displayName": "ANTHEM - GA",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "Portal",
+                    "effectiveDate": "2024-02-28T07:00:00.000+00:00",
+                    "availability": "Available",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2014-12-13T23:49:53.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2014-11-15T05:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "BCBS LOUISIANA",
+            "payerId": "53120",
+            "displayName": "BCBS LOUISIANA",
+            "shortName": "BCBSLA5312",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2019-08-01T05:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": true,
+                    "enrollmentMode": "Paper"
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2019-08-01T05:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": true,
+                    "enrollmentMode": "Paper"
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "Portal",
+                    "effectiveDate": "2021-09-15T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": true,
+                    "enrollmentMode": "Paper"
+                }
+            ]
+        },
+        {
+            "name": "CONSOLIDATED ASSOCIATES RAILROAD",
+            "payerId": "10669",
+            "displayName": "Consolidated Associates Railroad",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2022-07-28T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2022-07-14T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "CONTINENTAL GENERAL INSURANCE COMPANY",
+            "payerId": "CTLGN",
+            "displayName": "CTLGN",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2022-07-28T05:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2022-07-28T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "BCBS NORTH CAROLINA",
+            "payerId": "BCSNC",
+            "displayName": "BCBS NORTH CAROLINA",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2015-11-14T11:02:10.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "Portal",
+                    "effectiveDate": "2021-09-15T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2015-04-23T13:19:53.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "BCBS MISSISSIPPI",
+            "payerId": "BCMS",
+            "displayName": "BCBS MISSISSIPPI",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2022-04-29T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "Portal",
+                    "effectiveDate": "2022-04-29T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2022-04-29T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "HORIZON BCBS NEW JERSEY",
+            "payerId": "BCNJC",
+            "displayName": "BCNJC",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2024-02-09T05:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2024-02-09T05:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "BCBS RHODE ISLAND",
+            "payerId": "BCRIC",
+            "displayName": "BCBS RHODE ISLAND",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2022-04-29T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "Portal",
+                    "effectiveDate": "2022-04-29T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2022-04-29T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "BCBS SOUTH CAROLINA",
+            "payerId": "BCSCC",
+            "displayName": "BCSCC",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2022-07-14T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2022-07-28T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "CAREFIRST BCBS DISTRICT OF COLUMBIA",
+            "payerId": "BCDCC",
+            "displayName": "BCDCC",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2018-02-01T06:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2018-02-01T06:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "ANTHEM BC NY",
+            "payerId": "303",
+            "displayName": "ANTHEM BC NY",
+            "shortName": "303",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2014-11-15T22:18:25.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "Portal",
+                    "effectiveDate": "2024-02-28T07:00:00.000+00:00",
+                    "availability": "Available",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2014-11-15T05:00:00.000+00:00",
+                    "availability": "Available",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "HARMONY HEALTH PLAN",
+            "payerId": "14163",
+            "displayName": "WELLCARE HEALTH PLANS",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "Portal",
+                    "effectiveDate": "2009-05-16T21:52:01.000+00:00",
+                    "availability": "Available",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2014-11-15T22:18:25.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2011-12-31T06:00:00.000+00:00",
+                    "availability": "Available",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "HEALTH NET",
+            "payerId": "HNNC",
+            "displayName": "HNNC",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2019-01-07T05:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2019-01-07T05:00:00.000+00:00",
+                    "availability": "Available",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "HEALTH NET NATIONAL",
+            "payerId": "100146",
+            "displayName": "HEALTH NET",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2019-01-03T05:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "HEALTHEASE KIDS",
+            "payerId": "14163",
+            "displayName": "WELLCARE HEALTH PLANS",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "Portal",
+                    "effectiveDate": "2009-05-16T21:52:01.000+00:00",
+                    "availability": "Available",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2011-12-31T06:00:00.000+00:00",
+                    "availability": "Available",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2014-11-15T22:18:25.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "HUMANA LONG TERM CARE",
+            "payerId": "61115",
+            "displayName": "HUMANA LONG TERM CARE",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2016-11-01T04:00:00.000+00:00",
+                    "availability": "Available",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "Portal",
+                    "effectiveDate": "2021-09-01T04:00:00.000+00:00",
+                    "availability": "Available",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2016-11-01T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "HealthChoice of Connecticut",
+            "payerId": "95376",
+            "displayName": "COMMUNITY HEALTH GROUP",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2022-07-14T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2022-07-01T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "INNOVATION HEALTH",
+            "payerId": "40025",
+            "displayName": "INNOVATION HEALTH",
+            "shortName": "INNOVATION",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "Portal",
+                    "effectiveDate": "2019-10-04T05:00:00.000+00:00",
+                    "availability": "Available",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2019-10-04T05:00:00.000+00:00",
+                    "availability": "Available",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2019-10-04T05:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "MAGELLAN HEALTHCARE",
+            "payerId": "01260",
+            "displayName": "MAGELLAN HEALTHCARE",
+            "shortName": "MAGELLNHTH",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2021-07-17T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "Portal",
+                    "effectiveDate": "2021-07-17T04:00:00.000+00:00",
+                    "availability": "Available",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2021-07-17T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "MANAGED HEALTH NETWORKS (MHN)",
+            "payerId": "22771",
+            "displayName": "MANAGED HEALTH NETWORK (MHN)",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2020-07-08T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2020-07-08T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "REGENCE BS IDAHO",
+            "payerId": "00611",
+            "displayName": "REGENCE BLUESHIELD OF IDAHO",
+            "shortName": "REGENCEBSIDAHO",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "Portal",
+                    "effectiveDate": "2009-07-11T22:17:27.000+00:00",
+                    "availability": "Available",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2011-10-15T23:18:03.000+00:00",
+                    "availability": "Available",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2014-11-15T22:18:25.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "Batch",
+                    "effectiveDate": "2008-05-30T04:00:00.000+00:00",
+                    "availability": "Available",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "RELIANCE STANDARD LIFE INSURANCE COMPANY",
+            "payerId": "AMTAS00427",
+            "displayName": "AMTAS00427",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2022-07-01T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2022-07-05T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "PREFERRED CARE PARTNERS FLORIDA",
+            "payerId": "65088",
+            "displayName": "PREFERRED CARE PARTNERS",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2021-04-02T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2021-04-02T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "PROVIDENT AMERICAN LIFE AND HEALTH INSURANCE COMPANY",
+            "payerId": "PRVMS",
+            "displayName": "PRVMS",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2022-07-14T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2022-07-28T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "MOLINA HEALTHCARE ILLINOIS",
+            "payerId": "MLNIL",
+            "displayName": "MLNIL",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2024-05-14T04:00:01.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2024-05-14T04:00:01.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "MVP HEALTH PLAN NEW YORK",
+            "payerId": "MVP",
+            "displayName": "MVP",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2018-11-27T05:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2018-11-27T05:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "MEDICAID ALABAMA",
+            "payerId": "100005",
+            "displayName": "100005",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2023-04-05T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2023-04-20T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "MEDICAID ARIZONA",
+            "payerId": "AZ",
+            "displayName": "AZ",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2022-07-12T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2022-06-30T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "MEDICAID CALIFORNIA MEDI-CAL",
+            "payerId": "100065",
+            "displayName": "CALIFORNIA MEDICAID",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "Portal",
+                    "effectiveDate": "2024-02-28T05:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2024-02-28T05:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2024-02-28T05:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "MEDICAID DISTRICT OF COLUMBIA",
+            "payerId": "100121",
+            "displayName": "DISTRICT OF COLUMBIA MEDICAID",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2022-05-20T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2022-05-20T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "MEDICAID LOUISIANA",
+            "payerId": "100193",
+            "displayName": "LOUISIANA MEDICAID",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2015-11-14T11:02:10.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false,
+                    "additionalInfo": "<br>"
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2013-06-10T17:34:10.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "MEDICAID MASSACHUSETTS",
+            "payerId": "100199",
+            "displayName": "MASSACHUSETTS MEDICAID",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2015-11-14T11:02:10.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false,
+                    "additionalInfo": "<br>"
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2013-06-10T17:34:10.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "MEDICAID MISSISSIPPI",
+            "payerId": "100209",
+            "displayName": "MISSISSIPPI MEDICAID",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2018-04-10T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2018-04-10T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "MEDICAID MISSOURI",
+            "payerId": "100211",
+            "displayName": "MISSOURI MEDICAID",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2021-03-30T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2021-03-30T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "MEDICAID NEW YORK",
+            "payerId": "100231",
+            "displayName": "NEW YORK MEDICAID",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2013-06-10T17:34:10.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2015-11-14T11:02:10.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false,
+                    "additionalInfo": "<br>"
+                }
+            ]
+        },
+        {
+            "name": "SPECTERA UNITEDHEALTHCARE VISION",
+            "payerId": "00773",
+            "displayName": "OPTUMHEALTH VISION",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2020-01-30T06:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": true,
+                    "enrollmentMode": "Paper",
+                    "additionalInfo": "Loop 2100B must contain the NPI. Enrollment Required. Call (702) 242-7088 or Toll Free (800) 745-7065."
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2020-01-30T06:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": true,
+                    "enrollmentMode": "Paper"
+                }
+            ]
+        },
+        {
+            "name": "STAYWELL",
+            "payerId": "14163",
+            "displayName": "WELLCARE HEALTH PLANS",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2014-11-15T22:18:25.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "Portal",
+                    "effectiveDate": "2009-05-16T21:52:01.000+00:00",
+                    "availability": "Available",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2011-12-31T06:00:00.000+00:00",
+                    "availability": "Available",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "STAYWELL KIDS",
+            "payerId": "14163",
+            "displayName": "WELLCARE HEALTH PLANS",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "Portal",
+                    "effectiveDate": "2009-05-16T21:52:01.000+00:00",
+                    "availability": "Available",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2014-11-15T22:18:25.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2011-12-31T06:00:00.000+00:00",
+                    "availability": "Available",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "SIGNIFICA BENEFITS SERVICES INCORPORATED",
+            "payerId": "ERIN",
+            "displayName": "ERIN",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2022-08-29T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2022-07-27T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "SAMBA HEALTH BENEFIT PLAN",
+            "payerId": "SAMBA",
+            "displayName": "SAMBA",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2023-09-25T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2023-09-25T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "WILSON MCSHANE",
+            "payerId": "41095",
+            "displayName": "41095",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2021-11-16T05:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2021-11-16T05:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "UNITEDHEALTHCARE COMMUNITY PLAN (AMERICHOICE PENNSYLVANIA PCP)",
+            "payerId": "87726",
+            "displayName": "UNITED HEALTHCARE",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2019-04-17T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2019-04-17T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "UNITED TEACHER ASSOCIATES INSURANCE COMPANY",
+            "payerId": "UTAMS",
+            "displayName": "UTAMS",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2022-07-28T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2022-07-28T05:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "TEXAS CHILDREN'S HEALTH PLAN (MEDICAID) CHIP",
+            "payerId": "76048",
+            "shortName": "TXCHLDRNHP",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2024-09-20T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2024-09-20T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "MEDICAID WASHINGTON (PROVIDER ONE)",
+            "payerId": "AIDWA",
+            "displayName": "MEDICAID WASHINGTON (PROVIDER ONE)",
+            "shortName": "MEDICAIDWA",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "Portal",
+                    "effectiveDate": "2021-09-15T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2014-03-05T05:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": true
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2015-08-15T11:24:41.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false,
+                    "additionalInfo": "<br>"
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "Batch",
+                    "effectiveDate": "2013-05-01T05:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": true
+                }
+            ]
+        },
+        {
+            "name": "MERCY HEALTH PLAN OF NEW JERSEY",
+            "payerId": "22326",
+            "displayName": "HORIZON NJ HEALTH",
+            "shortName": "HORIZON NJ HEALTH",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2024-09-18T06:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2024-09-18T06:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "SENIOR HEALTH PARTNERS",
+            "payerId": "80141",
+            "displayName": "HEALTHFIRST (NEW YORK)",
+            "shortName": "80141",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2021-05-28T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2021-05-28T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "MVP HEALTH PLAN NEW YORK",
+            "payerId": "14165",
+            "displayName": "MVP HEALTH PLAN",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2018-03-01T05:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2018-03-01T05:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        },
+        {
+            "name": "NETWORK HEALTH INSURANCE CORPORATION MEDICARE  NHIC",
+            "payerId": "77076",
+            "displayName": "NETWORK HEALTH INS CORP - MEDICARE",
+            "shortName": "NTWKHTHMCR",
+            "processingRoutes": [
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "RealTime",
+                    "effectiveDate": "2021-07-22T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                },
+                {
+                    "transactionDescription": "Eligibility and Benefits Inquiry",
+                    "submissionMode": "API",
+                    "effectiveDate": "2021-07-22T04:00:00.000+00:00",
+                    "availability": "Contract Required",
+                    "enrollmentRequired": false
+                }
+            ]
+        }
+    ]
+}
