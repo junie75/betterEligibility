@@ -31,16 +31,37 @@ def getCoverages(sessionToken, payerID, memberID, lastName, firstName, birthDate
         # "procedureCode": "PROCEDURE_CODE"            # CPT or HCPCS procedure code
     }
 
+    # ********TESTING************ dummy data 
+    data = {
+    "payerId": "123",
+    "providerUserId": "123",
+    "providerNpi": "123",
+    "providerLastName": "ABC",
+    "asOfDate": "1990-01-01",
+    "serviceType[]": "30",
+    "memberId": "ABC123",
+    "patientBirthDate": "1900-01-01",
+    "patientLastName": "LAST",
+    "patientFirstName": "FIRST",
+    "patientGender": "M",
+    "patientState": "FL",
+    "subscriberRelationship": "18",
+    "requestedPatientSearchOption": "memberId,patientBirthDate,patientState"
+}
+
     # Set the headers, including your OAuth token
     headers = {
         "Authorization": f"Bearer {sessionToken}", # Replace with your actual OAuth token
-        # "Content-Type": "application/x-www-form-urlencoded",
+        "Content-Type": "application/x-www-form-urlencoded",
         "Accept": "application/json", 
         "X-Api-Mock-Scenario-ID": "200" # This header is used for interacting with the DEMO version of the Availity API
     }
 
     # Make the POST request to the Availity API
-    response = requests.post(url, data=payload, headers=headers)
+    # response = requests.post(url, data=payload, headers=headers)
+
+    # ********TESTING************
+    response = requests.post(url, data=data, headers=headers)
 
     # Check if the response contains valid JSON
     if response.status_code == 200:
